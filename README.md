@@ -1,4 +1,5 @@
 Good Morning
 From Bagnacavallo
-Di Ravenna
-Italy
+Di Ravenna \n
+Italy <br>
+Emilia Romagna
