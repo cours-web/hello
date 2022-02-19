@@ -1,5 +1,5 @@
-Good Morning
-From Bagnacavallo
-Di Ravenna \n
+Good Morning <br>
+From Bagnacavallo <br>
+Di Ravenna <br>
 Italy <br>
-Emilia Romagna
+Emilia Romagna <br>
